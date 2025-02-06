@@ -1,6 +1,6 @@
-# PHP Grundlagen
+# PHP Basics
 
-PHP ist eine Skriptsprache, die speziell für die dynamische Webentwicklung entwickelt wurde.
+PHP is a scripting language specifically designed for dynamic web development.
 
 ## How I access the Website
 
@@ -38,7 +38,6 @@ PHP ist eine Skriptsprache, die speziell für die dynamische Webentwicklung entw
 - [Variablen](http://localhost/learning-website-basics-of-php/variables.php/)  
   ![PHP Variablen](pictures%20for%20readme/variables.png)
 
-### Anleitung
+### Instruction
 
-Dieses Repository enthält grundlegende Informationen über PHP, einschließlich Syntax, Variablen, Kontrollstrukturen, Datenstrukturen, Datenbankinteraktion, Formularverarbeitung und Funktionen.
-
+This webpage contains basic information about PHP, including syntax, variables, control structures, data structures, database interaction, form handling, and functions.
